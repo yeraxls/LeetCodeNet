@@ -1,0 +1,15 @@
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.AssemblyInfoInputs.cache
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.AssemblyInfo.cs
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.csproj.CoreCompileInputs.cache
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.sourcelink.json
+E:\proyectos\LeetCodeNet\ReverseVowels\bin\Debug\net8.0\ReverseVowels.exe
+E:\proyectos\LeetCodeNet\ReverseVowels\bin\Debug\net8.0\ReverseVowels.deps.json
+E:\proyectos\LeetCodeNet\ReverseVowels\bin\Debug\net8.0\ReverseVowels.runtimeconfig.json
+E:\proyectos\LeetCodeNet\ReverseVowels\bin\Debug\net8.0\ReverseVowels.dll
+E:\proyectos\LeetCodeNet\ReverseVowels\bin\Debug\net8.0\ReverseVowels.pdb
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.dll
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\refint\ReverseVowels.dll
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.pdb
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ReverseVowels.genruntimeconfig.cache
+E:\proyectos\LeetCodeNet\ReverseVowels\obj\Debug\net8.0\ref\ReverseVowels.dll
