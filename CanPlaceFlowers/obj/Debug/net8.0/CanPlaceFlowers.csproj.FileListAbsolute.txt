@@ -1,0 +1,15 @@
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.exe
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.deps.json
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.runtimeconfig.json
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.dll
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.pdb
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.AssemblyInfoInputs.cache
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.AssemblyInfo.cs
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.csproj.CoreCompileInputs.cache
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.sourcelink.json
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.dll
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\refint\CanPlaceFlowers.dll
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.pdb
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.genruntimeconfig.cache
+E:\proyectos\LeetCodeNet\CanPlaceFlowers\obj\Debug\net8.0\ref\CanPlaceFlowers.dll

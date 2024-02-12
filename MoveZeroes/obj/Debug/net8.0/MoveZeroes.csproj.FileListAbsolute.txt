@@ -1,0 +1,15 @@
+E:\proyectos\LeetCodeNet\MoveZeroes\bin\Debug\net8.0\MoveZeroes.exe
+E:\proyectos\LeetCodeNet\MoveZeroes\bin\Debug\net8.0\MoveZeroes.deps.json
+E:\proyectos\LeetCodeNet\MoveZeroes\bin\Debug\net8.0\MoveZeroes.runtimeconfig.json
+E:\proyectos\LeetCodeNet\MoveZeroes\bin\Debug\net8.0\MoveZeroes.dll
+E:\proyectos\LeetCodeNet\MoveZeroes\bin\Debug\net8.0\MoveZeroes.pdb
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.AssemblyInfoInputs.cache
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.AssemblyInfo.cs
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.csproj.CoreCompileInputs.cache
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.sourcelink.json
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.dll
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\refint\MoveZeroes.dll
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.pdb
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\MoveZeroes.genruntimeconfig.cache
+E:\proyectos\LeetCodeNet\MoveZeroes\obj\Debug\net8.0\ref\MoveZeroes.dll

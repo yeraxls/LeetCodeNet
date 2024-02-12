@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseVowels", "ReverseVow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanPlaceFlowers", "CanPlaceFlowers\CanPlaceFlowers.csproj", "{345A52A2-CE77-4328-A0FA-61701914616B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{D4D65F83-359C-4ED9-BC25-16B2940CAE54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{345A52A2-CE77-4328-A0FA-61701914616B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{345A52A2-CE77-4328-A0FA-61701914616B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{345A52A2-CE77-4328-A0FA-61701914616B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D65F83-359C-4ED9-BC25-16B2940CAE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D65F83-359C-4ED9-BC25-16B2940CAE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D65F83-359C-4ED9-BC25-16B2940CAE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D65F83-359C-4ED9-BC25-16B2940CAE54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
